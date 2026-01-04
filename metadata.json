@@ -1,0 +1,5 @@
+{
+  "name": "StealthPay — EIP-7503 Private ETH Transfers",
+  "description": "A high-fidelity landing page and demo for StealthPay, a private ETH transfer protocol powered by EIP-7503 Zero-Knowledge Wormholes. Explore native privacy on Ethereum with interactive simulations and AI-powered technical guidance.",
+  "requestFramePermissions": []
+}
