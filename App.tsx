@@ -41,7 +41,7 @@ const App: React.FC = () => {
           <a href="#demo" className="w-full sm:w-auto bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-4 px-10 rounded-2xl shadow-xl shadow-indigo-600/20 transition-all transform hover:-translate-y-1">
             Get Started
           </a>
-          <a href="https://github.com" target="_blank" className="w-full sm:w-auto bg-white/5 hover:bg-white/10 text-white font-bold py-4 px-10 rounded-2xl card-border flex items-center justify-center gap-2 transition-all">
+          <a href="https://github.com/0xNexuz/Stealth-pay" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto bg-white/5 hover:bg-white/10 text-white font-bold py-4 px-10 rounded-2xl card-border flex items-center justify-center gap-2 transition-all">
             <Github className="w-5 h-5" /> View Github
           </a>
         </div>
